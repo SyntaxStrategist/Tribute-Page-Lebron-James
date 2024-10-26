@@ -26,4 +26,4 @@ To view the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/the6reat/Tribute-Page-Lebron-James.git
+   git clone https://github.com/SyntaxStrategist/Tribute-Page-Lebron-James.git
